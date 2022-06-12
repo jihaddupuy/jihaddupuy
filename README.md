@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Jihad DuPuy
 - 👀 🚗 I’m interested in cars anything remotely near the topic of cars and software you will have my full undivided attention 
 -  💾 I'm a grad (C#/.NET Core and JavaScript) at We Can Code IT, a Cleveland, Ohio coding bootcamp.
-- 🌱 I’m currently learning ... kotlin, intellij idea and perfecting my javascript 
 -  📫 How to reach me linkedin https://www.linkedin.com/in/jihad-dupuy/
 - 🔨 I have been troubleshooting homes, cars and technology all my life! so coding works with my train of thought I love it.
